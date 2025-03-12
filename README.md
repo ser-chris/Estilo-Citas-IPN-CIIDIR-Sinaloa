@@ -17,15 +17,6 @@ Este es un estilo de citación personalizado para Zotero, diseñado específicam
 
 ## Instalación del Estilo en Zotero
 
-### Método 1: Instalación directa en Firefox
-
-1. Abre Zotero en tu navegador Firefox.
-2. Ve a la página del [Repositorio de Estilos de Zotero](https://www.zotero.org/styles).
-3. Busca "IPN CIIDIR Sinaloa" en la barra de búsqueda.
-4. Haz clic en el enlace del estilo y luego en Instalar.
-
-### Método 2: Instalación en Zotero Standalone
-
 1. Descarga el archivo .CSL del estilo desde este repositorio.
 2. Abre Zotero y accede a las Preferencias.
 3. Ve a la pestaña Citar → Estilos → haz clic en el botón "+".
